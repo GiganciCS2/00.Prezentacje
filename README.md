@@ -13,5 +13,5 @@ Repozytoria, zawierające kody źródłowe projektów tworzonych na zajęciach. 
 
 Kody źródłowe do zadań, rozwiązywanych na zajęciach
 
-- ### [02. Zmienne](#)
-- ### [03. Operacje_arytmetyczne](#)
+- ### [02. Zmienne](https://github.com/GiganciCS2/02.Zmienne)
+- ### [03. Operacje_arytmetyczne](https://github.com/GiganciCS2/03.Operacje_arytmetyczne)
