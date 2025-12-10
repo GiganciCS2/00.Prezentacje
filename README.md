@@ -19,3 +19,7 @@ Kody źródłowe do zadań, rozwiązywanych na zajęciach
 
 - ### [02. Zmienne](https://github.com/GiganciCS2/02.Zmienne)
 - ### [03. Operacje_arytmetyczne](https://github.com/GiganciCS2/03.Operacje_arytmetyczne)
+- ### [04. Operacje_logiczne](https://github.com/GiganciCS2/04.Operacje_logiczne)
+- ### [05. Instrukcja_warunkowa](https://github.com/GiganciCS2/05.Instrukcja_warunkowa)
+- ### [06. Instrukcja_warunkowa2](https://github.com/GiganciCS2/06.Instrukcja_warunkowa-cz2_KlasaRandom)
+- ### [07. Instrukcja_SWITCH](https://github.com/GiganciCS2/07.Instrukcja_sterujaca_SWITCH)
