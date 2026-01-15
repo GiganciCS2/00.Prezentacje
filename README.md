@@ -12,6 +12,10 @@ Repozytoria, zawierające kody źródłowe projektów tworzonych na zajęciach. 
 - ### [05. Instrukcje warunkowe - cz. 1](https://www.michcia.pl/csharp/05.instrukcja_warunkowa/05.instrukcja_if.pdf) | 21.11
 - ### [06. Instrukcje warunkowe - cz. 2](https://www.michcia.pl/csharp/06.instrukcja_warunkowa-cz2/06.instrukcja_if-cz2.pdf) | 28.11
 - ### [07. Instrukcja sterująca SWITCH](https://www.michcia.pl/csharp/07.instrukcja_sterujaca_switch/07.switch.pdf) | 05.12
+- ### [08. Dobre praktyki programistyczne](https://michcia.pl/csharp/08.dobre-praktyki_programistyczne/08.dobre_praktyki.pdf) | 12.12
+- ### [09. Wstęp do pętli](https://michcia.pl/csharp/09.petle_wstep/09.petle_wstep.pdf) | 19.12
+- ### [10. Pętle](https://michcia.pl/csharp/10.petle/10_petle.pdf) | 02.01
+- ### [11. Tablice](https://michcia.pl/csharp/11.tablice/11_tablice.pdf) | 09.01
 
 ## Projekty
 
@@ -23,3 +27,7 @@ Kody źródłowe do zadań, rozwiązywanych na zajęciach
 - ### [05. Instrukcja_warunkowa](https://github.com/GiganciCS2/05.Instrukcja_warunkowa)
 - ### [06. Instrukcja_warunkowa2](https://github.com/GiganciCS2/06.Instrukcja_warunkowa-cz2_KlasaRandom)
 - ### [07. Instrukcja_SWITCH](https://github.com/GiganciCS2/07.Instrukcja_sterujaca_SWITCH)
+- ### [08. Dobre praktyki programistyczne](https://github.com/GiganciCS2/08.Dobre-praktyki_programistyczne)
+- ### [09. Wstęp do pętli](https://github.com/GiganciCS2/09.Petle_wstep)
+- ### [10. Pętle](https://github.com/GiganciCS2/10.Petle)
+- ### [11. Tablice](https://github.com/GiganciCS2/11.Tablice)
