@@ -37,4 +37,4 @@ Kody źródłowe do zadań, rozwiązywanych na zajęciach
 - ### [11. Tablice](https://github.com/GiganciCS2/11.Tablice)
 - ### [12. Metody cz. 1](https://github.com/GiganciCS2/12.Metody-cz1)
 - ### [13. Metody cz. 2](https://github.com/GiganciCS2/13.Metody-cz2)
-- ### [14, Powtórzenie, GitHub](https://github.com/GiganciCS2/14.Powtorzenie)
+- ### [14. Powtórzenie, GitHub](https://github.com/GiganciCS2/14.Powtorzenie)
