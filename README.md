@@ -35,3 +35,5 @@ Kody źródłowe do zadań, rozwiązywanych na zajęciach
 - ### [09. Wstęp do pętli](https://github.com/GiganciCS2/09.Petle_wstep)
 - ### [10. Pętle](https://github.com/GiganciCS2/10.Petle)
 - ### [11. Tablice](https://github.com/GiganciCS2/11.Tablice)
+- ### [12. Metody cz. 1](https://github.com/GiganciCS2/12.Metody-cz1)
+- ### [13. Metody cz. 2](https://github.com/GiganciCS2/13.Metody-cz2)
