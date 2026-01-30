@@ -16,6 +16,10 @@ Repozytoria, zawierające kody źródłowe projektów tworzonych na zajęciach. 
 - ### [09. Wstęp do pętli](https://michcia.pl/csharp/09.petle_wstep/09.petle_wstep.pdf) | 19.12
 - ### [10. Pętle](https://michcia.pl/csharp/10.petle/10_petle.pdf) | 02.01
 - ### [11. Tablice](https://michcia.pl/csharp/11.tablice/11_tablice.pdf) | 09.01
+- ### [11. Tablice](https://michcia.pl/csharp/11.tablice/11_tablice.pdf) | 09.01
+- ### [12. Metody - cz. 1](https://michcia.pl/csharp/12i13.metody/12_metody-cz1.pdf) | 16.01
+- ### [13. Metody - cz. 2](https://michcia.pl/csharp/12i13.metody/13_metody-cz2.pdf) | 23.01
+- ### [14. Powtórzenie, GitHub](https://michcia.pl/csharp/14.powtorzenie/14_powtorzenie.pdf) | 30.01
 
 ## Projekty
 
